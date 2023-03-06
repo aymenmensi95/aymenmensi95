@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aymen Mensi => @aymenmensi95
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on any project
 - 📫 You can reach me by email: aymen.mensi95@gmail.com or via Linked In [aymen-mensi](https://www.linkedin.com/in/aymen-mensi/)
